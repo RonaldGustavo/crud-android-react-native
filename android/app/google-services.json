@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "500228474856",
+    "project_id": "dboproject-fafd1",
+    "storage_bucket": "dboproject-fafd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500228474856:android:454de9808bfb782050c65d",
+        "android_client_info": {
+          "package_name": "com.dbomobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe_sJvcOYInTDQG1oqBEbMvFP1-8MZA94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
